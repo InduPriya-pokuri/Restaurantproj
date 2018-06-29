@@ -1,0 +1,22 @@
+{
+  "name": "mws",
+  "version": "1.0.0",
+  "main": "project",
+  "scripts": {
+    "test": "2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "2"
+  },
+  "keywords": [
+    "3"
+  ],
+  "author": "4",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  },
+  "dependencies": {},
+  "description": ""
+}
